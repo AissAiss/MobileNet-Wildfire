@@ -1,6 +1,6 @@
 protoc object_detection/protos/*.proto --python_out=.
 
-set PYTHONPATH=D:\GitShare\MobileNet-SSD-Wild-Fire-Detection\models\research;D:\GitShare\MobileNet-SSD-Wild-Fire-Detection\models\research\slim
+set PYTHONPATH=D:\Git\MobileNet-Wildfire\models\research;D:\Git\MobileNet-Wildfire\models\research\slim
 
 set PATH=%PATH%;PYTHONPATH
 

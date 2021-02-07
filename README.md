@@ -9,6 +9,12 @@ Ce projet est inspiré de
 * Julien Froelich-Thaler, [Soccrate](https://github.com/Soccrate)
 * Lucas Aissaoui, [AissAiss](https://github.com/AissAiss)
 
+
+<p align="center">
+  <img src="rddoc/img6.png" width=620 height=469>
+</p>
+
+
 ## Table des matières 
 
 <ul>
